@@ -1,0 +1,1 @@
+C:\Users\adanl\Documents\Arduino\necklace\build\app\intermediates\cxx\Debug\3n6016v5\obj\arm64-v8a
